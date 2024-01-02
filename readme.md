@@ -1,9 +1,12 @@
 # Code-A-Long: Guessing Game
 
-**Welcome all attendees, please read this first!**
+## Welcome all attendees, please read this first!
+
 The purpose of this Code-A-Long is to provide YOU, the participant, a feel for what programming actually looks like, and how a developer might get started on a project. To that end, we will walk you through a highly shortened version of an early in-class project. The remainder of this readme is assuming you are a student enrolled in a Gavlanize program. However, for this specific Code-A-Long, your instructor will work through the first two features, to show you what programming looks like, how things get started, and how everything comes together to build a basic program that you can interact with!
 
 ## What's in this project?
+
+![game_cover](/images/game_cover.png)
 
 **This project will touch on the following concepts:**
  - Basic Data Types
