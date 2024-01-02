@@ -25,12 +25,12 @@ function play() {
       } else {
         // alert(`Correct! Your previous guess(es) were ${prevGuesses.join(", ")}.`);
         alert(`Correct! ${secretNumber} was the number!`);
-        const playAgain = prompt("Do you want to play again?");
-        if(playAgain.toLowerCase() === "yes") {
-          play();
-        } else {
-          break;
-        }
+        // const playAgain = prompt("Do you want to play again?");
+        // if(playAgain.toLowerCase() === "yes") {
+        //   play();
+        // } else {
+        //   break;
+        // }
       }
     }
   }
