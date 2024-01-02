@@ -5,6 +5,8 @@ The purpose of this Code-A-Long is to provide YOU, the participant, a feel for w
 
 ## What's in this project?
 
+![game_cover](/images/game_cover.png)
+
 **This project will touch on the following concepts:**
  - Basic Data Types
  - Conditionals
